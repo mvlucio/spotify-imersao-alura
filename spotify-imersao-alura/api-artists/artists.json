@@ -1,0 +1,46 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Foo Fighters",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab67706c0000da848cf08c290d392f6d6c641d86"
+    },
+    {
+      "id": 2,
+      "name": "Ariana Grande",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab67706f00000002cd8e2b103295bbd2749d8ea7"
+    },
+    {
+      "id": 3,
+      "name": "Emicida",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+    },
+    {
+      "id": 4,
+      "name": "Ana Castela",
+      "genre": "Sertanejo",
+      "urlImg": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1vscg0-default.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mc Ryan SP",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab67706c0000da84ca219921f19e86dc73f7a075"
+    },
+    {
+      "id": 6,
+      "name": "Péricles",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616d00001e0220d711e24ec947c793012af5"
+    },
+    {
+      "id": 7,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4yX5Sg-default.jpg"
+    }
+  ]
+}
